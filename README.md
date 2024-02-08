@@ -15,28 +15,28 @@
                 color: white;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" rel="nofollow" class="blue-btn" href="https://dsc.gg/reedroux"> Add the main bot •</a>
+                font-weight: bold;" rel="nofollow" class="blue-btn" href="https://reedroux.biz/invite"> Add the main bot •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                 padding: 8px 15px;
                 background-color: white;
                 color: black;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" href="https://dsc.gg/redrxbot"> Support server •</a>
+                font-weight: bold;" href="https://reedroux.biz/support"> Support server •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                 padding: 8px 15px;
                 background-color: #3A871F;
                 color: white;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" href="https://reedrouxmusic.vercel.app/"> Dashboard •</a>
+                font-weight: bold;" href="https://reedroux.biz/"> Dashboard •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                        padding: 8px 15px;
                        background-color: white;
                        color: black;
                        border-radius: 8px;
                        font-size: 16px;
-                       font-weight: bold;" href="https://green-bot.app/commands"> Commands list </a>
+                       font-weight: bold;" href="https://reedroux.biz"> Commands list </a>
         </div>
     </center>
     
@@ -60,7 +60,7 @@
 **📁 Installation**
 
 Note: 
-- If you need help with the installation, you can join our [Discord Server](https://dsc.gg/redrxbot).
+- If you need help with the installation, you can join our [Discord Server](https://reedroux.biz/support).
 - The code isn't the same as production, this version is made to learn people how it works but it's not the same as Green-Bot.
 
 Before you start, please consider that if you want to self-host this bot for personal use you should purchase a custom bot. Installation is not beginner friendly.
@@ -120,6 +120,9 @@ https://opensource.guide/how-to-contribute/
 - [@dawgcodes](https://www.github.com/dawgcodes)
 - [@wsael ](https://www.github.com/wsael)
 
+## Bot Lists
+[![Discord Bots](https://top.gg/api/widget/1066057160125059112.svg)](https://top.gg/bot/1066057160125059112)
+[![Discord Bot List](https://discordbotlist.com/api/bots/reedroux/widget)](https://discordbotlist.com/bots/reedroux)
   
 ## License
 
