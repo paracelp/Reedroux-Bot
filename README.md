@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Reedroux bot" src="https://cdn.discordapp.com/avatars/1066057160125059112/f126aef5fd58d7dae9fe299e659d23f7.png?size=4096">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Reedroux bot" src="https://cdn.discordapp.com/attachments/1126889647168045159/1215851337540173924/f126aef5fd58d7dae9fe299e659d23f7.png?ex=6610b5cc&is=65fe40cc&hm=1f9f106e6af0f730a5a97338a3910a2fd6984ceab0561358f3896c2cec945039&">
     <h3>Reedroux-bot</h3>
         If you liked this repository, feel free to leave a star ⭐ and follow me, it supports me a lot! Thanks you!
     <br><br>
