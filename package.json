@@ -1,12 +1,9 @@
 {
-  "name": "reedroux-bot",
-  "version": "2.1.0",
+  "name": "reedroux",
+  "version": "2.2.0",
   "description": "A nice discord music bot",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "reedroux/Reedroux-Bot.git"
-  },
+  "repository": "https://github.com/reedroux/Reedroux-Bot.git",
   "author": "twodawg",
   "license": "ISC",
   "scripts": {
@@ -26,16 +23,16 @@
   "bugs": {
     "url": "https://github.com/reedroux/Reedroux-Bot/issues"
   },
-  "homepage": "https://github.com/dawgcodes",
+  "homepage": "https://github.com/reedroux/Reedroux-Bot",
   "dependencies": {
     "@canvas/image": "^2.0.0",
     "@discordjs/builders": "github:discordjs/builders",
     "@discordjs/collection": "github:discordjs/collection",
-    "@discordjs/voice": "^0.16.0",
+    "@discordjs/voice": "^0.16.1",
     "@har-sdk/validator": "^2.5.0",
     "@luminati-io/har-validator": "^2.0.6-lum.1",
     "@videojs/http-streaming": "^2.16.2",
-    "@vimeo/player": "^2.20.1",
+    "@vimeo/player": "^2.22.0",
     "@yujinakayama/apple-music": "^0.4.1",
     "abab": "^2.0.6",
     "apple-music-playlist": "^1.1.5",
@@ -68,7 +65,7 @@
     "install": "^0.13.0",
     "is-my-json-valid": "^2.20.6",
     "joi": "^17.12.1",
-    "kazagumo": "^2.3.2",
+    "kazagumo": "^2.4.0",
     "kazagumo-spotify": "^1.2.0",
     "lodash": "^4.17.21",
     "lyrics-finder": "^21.7.0",
@@ -99,9 +96,11 @@
     "topo": "^3.0.3",
     "update": "^0.7.4",
     "util": "^0.12.5",
-    "uuid": "^9.0.1",
+    "uuid": "^3.4.0",
     "vimeo": "^2.3.1",
     "yarn": "^1.22.19",
     "youtube": "^0.1.0"
-  }
+  },
+  "private": true
 }
+
